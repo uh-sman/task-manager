@@ -1,0 +1,22 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "text": "Decorate Room",
+      "day": "Jun 24 at 2:30pm",
+      "reminder": true
+    },
+    {
+      "id": 2,
+      "text": "Work from Home",
+      "day": "Jun 20 at 9:00am",
+      "reminder": false
+    },
+    {
+      "id": 3,
+      "text": "call home",
+      "day": "Jun 21 at 10:00am",
+      "reminder": true
+    }
+  ]
+}
